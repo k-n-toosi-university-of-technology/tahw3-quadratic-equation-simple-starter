@@ -72,7 +72,7 @@ public class SolutionTest {
     }
 
     @Test
-    public void test_getB() {
+    public void testGetB() {
         Assert.assertTrue(canTest);
         boolean seen = false;
         Method[] methods = QuadraticEquation.class.getMethods();
@@ -89,7 +89,7 @@ public class SolutionTest {
     }
 
     @Test
-    public void test_getC() {
+    public void testGetC() {
         Assert.assertTrue(canTest);
         boolean seen = false;
         Method[] methods = QuadraticEquation.class.getMethods();
