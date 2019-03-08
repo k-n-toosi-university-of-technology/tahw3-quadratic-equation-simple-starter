@@ -9,7 +9,7 @@ The class contains:
 
 - **Private** data fields a, b, and c that represent three coefficients.
 
-- A constructor for the arguments for a, b, and c.
+- A constructor with three parameter to initialize a, b, and c.
 
 - Three getter methods for a, b, and c.
 
