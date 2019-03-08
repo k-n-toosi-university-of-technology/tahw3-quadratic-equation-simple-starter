@@ -1,5 +1,4 @@
-# tahw3-quadratic-equation-simple-starter
-
+# TA HW3 - Quadratic Equation - 50 Points
 
 Design a class named QuadraticEquation for a quadratic equation
 
