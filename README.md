@@ -1,5 +1,4 @@
-# tahw3-quadratic-equation-simple-starter
-
+# TA HW3 - Quadratic Equation - 50 Points
 
 Design a class named QuadraticEquation for a quadratic equation
 
@@ -22,6 +21,8 @@ The class contains:
 
 
 <div dir="rtl" align="right">
+در صورتی که معادله جواب نداشت و دلتای معادله منفی بود مقدار `Double.NaN` را برگردانید
+    
 سوال فوق را با رعایت سطوح دسترسی پیاده سازی کنید:
 </div>
 
@@ -39,6 +40,8 @@ public class QuadraticEquation{
 
 <div dir="rtl" align="right">
 پس از پیاده سازی این کلاس، کلاس دیگری برای استفاده و تست قابلیت‌های این کلاس تعریف کنید:
+
+انجام دادن اینکار الزامی نیست و به هر مدلی که دوست دارید توابع کلاس خود را تست کنید و شی بسازید
 </div>
 
 ```java
