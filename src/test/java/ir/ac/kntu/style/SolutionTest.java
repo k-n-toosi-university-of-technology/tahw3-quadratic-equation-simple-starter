@@ -30,7 +30,7 @@ public class SolutionTest {
         boolean testPMDInternal = CheckPMDTest.testPMDViolation();
         boolean testCPDInternal = CheckPMDTest.testCPDViolation();
         boolean testCheckStyleInternal = CheckStyleTest.testCheckStyleViloation();
-        canTest = testCheckStyleInternal && testPMDInternal && testCPDInternal;
+        canTest = !testCheckStyleInternal && !testPMDInternal && !testCPDInternal;
     }
 
     @Test
